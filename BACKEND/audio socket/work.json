@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "stellar-river-239920",
+    "private_key_id": "f9ed412d02cb44ca667b13b160056f7c72049b2b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQVJvU6Mt4bNW9\n5G4eigLglG6no2xixBpOkgaS9A3BoB5zVMiYMhRGMcV1v91aE/obe7v66s4ceT7+\ngZufM1+P9nshfhZFzRz/4kU1QIkKQgfDwDnT6R3+eNuWpw79h4BQKdaxGweXfYgb\n7ef/ROit089ewzVwMV//0xqf3pPc5pJIgYmOSX322ThwxAMe4a1f8gCyluL2TWFF\nJtZcI3A4KjM00rVBJ3PDvVlv5x6p4lHpIcupXp+K6sN9UM9pBIhBXKcTScpm8nr8\nfwCOA+58AwtgoUATdgh8iRaE/36X/LAd5OxsWt7vK0aRXz3Kx2/NbF7pUT6K3fe8\nYL5ZiDdTAgMBAAECggEASFZYlaEPpY0E2p7Krcf2H8zqb0MLi2/UQpvptHURob3b\nVOiHjnE1IPp/OdeZIIH3QjvAleuaDcD74ptWUf0gnXhUYNjLGwmRnDgRF+CEtQ8g\naxQAAFjdlVKZzMHNLrMyFqOwbGaaSDvKWwhMmhJvSIxXYOwfTgmW79l5UTGT3guB\nNwmd0CDEsa7KdpqdjT3JdB2GjzmIasU1EaKBKqIzcz+COo+CCWHxuGm2EGpfpy8W\nNO0bQRcLAGl+TFaOqU0+DY/yydh+zv5eRDneQfzV94I72I0ZMGyN1AS9zct1Iu/x\nT/haP6GG3pUjuAET6dwYDw2xAnRmDSNHd5XKwfCtwQKBgQDngSuY2IT6pOOn8g2K\nvOxRT1hvOQyLgDi9L9OewNWmDzsZTKdO063PX30iFCfcXH5+pl5E6poxckgzd+Aw\nEefloee4W5aqzTSWggLt8b7qLHbO7E0ggN948gsRvSk/lLoPTyPa2kQi4mTmdqaO\n1d2LMnuMzkSIVnRlegPfi24QSwKBgQDmX7dDiKZDqfA1OJeN2U21JEamWI4Uoldr\n5HX4UzjugL0uOSX+Vau8fA/Qd2qo7YLQYXX9pzT4yiamRnQ7zcaPJtYr8PJXAA54\nxDETgxSNpOir7k+DiyTHED7ozsComUZzRP4+EzGdrJyXIBzDLFo79Ud9Arv6RWg2\n7H2DajXgGQKBgDE6Vnr6D8z8oyxjXF3ULqxbowKDrxc6/NW+BdIMT2IwevC2TB2H\nBb7DH2jPwGorgPqNhh5BhOhe1Nuc8h9Gr3k1JIEfeLp5SGV44AaZEW/aZKk7tmri\n/KJLVe8/ujW6+pWmzokLQNHqMmqPcHuPHr0qzvryIcCcIcQyXgB7NbxhAoGBAJ1v\nHfu9//nPwcNtOE0NCwjWkJ2PeRFq3Bl0mJYqsYZ0XlSfY3KLM4Dsu5X4deCZ58Lm\nR88fnJjE9WK+VSKlfqNHpCeFUufXtwwa73rpInumDgepJZe82FZdqNBKsujFTprp\ntGHRlh+t3Zl9rYpH3iaJeeBZpQLkudKHDUNoqwbJAoGAaeCT3fxZovYyp24To0gt\n+sszuPzMnRaqEnbCgM1TPWYZ4kyPt+BfcGhM0gCgdzvP0NX+U8ZM2TX2sL46NWKB\njMrhPA4dDd9UtC6cSJrUtM2poU+1VLwaRSHEba2PcyAKgu2XPqNc9864+u0wzhJr\nHmWgZvMf1gLThMsjgJBKSuQ=\n-----END PRIVATE KEY-----\n",
+    "client_email": "audiorecorder@stellar-river-239920.iam.gserviceaccount.com",
+    "client_id": "118391313430420569800",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/audiorecorder%40stellar-river-239920.iam.gserviceaccount.com"
+}
